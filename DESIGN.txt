@@ -1,0 +1,9 @@
+I intend to build a top down scrolling shooter game called "Ninja Wars". The back story is that a ninja gets abducted
+by aliens but manages to break free before the flying saucer leaves the planet. They end up on top of a moving train and
+the ninja has some obstacles to take cover behind in front of him. He uses these while moving around and throwing ninja stars
+at a group of aliens that are also moving around and shooting laser beams at him. After killing all the aliens, the game moves 
+into level 2 which is against three alien bosses. These guys are much bigger, faster and stronger than the other aliens. The game makes
+use of the left and right arrow keys to move the ninja and the space bar to throw stars. The aliens in the first level will 
+all look the same and be arranged in rows while moving in the same direction and shooting at the ninja. The three aliens in the 
+second level will not be arranged next to each other, will deal more damage and will be moving faster than the aliens in the 
+first level. 
