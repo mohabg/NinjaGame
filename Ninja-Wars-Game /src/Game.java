@@ -162,7 +162,7 @@ public class Game {
 	}
 
 	private void endGame(int size) {
-		if(myNinja.isDead() && !alienBoss.isDead()){
+		if(myNinja.isDead()){
 			Text gameOver = new Text();
 			gameOver.setText("Game Over");
 			gameOver.setX(size / 3);
